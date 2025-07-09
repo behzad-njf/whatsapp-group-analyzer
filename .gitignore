@@ -1,0 +1,7 @@
+*.txt
+.venv
+*.csv
+*.ods
+*.zip
+*.pdf
+*.svg
